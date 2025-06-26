@@ -1,17 +1,3 @@
-body {
-  background-color: #f0f0f0;
-  font-family: sans-serif;
+.login-pf body {
+    background: DimGrey none;
 }
-
-.custom-login-container {
-  max-width: 400px;
-  margin: 100px auto;
-  padding: 2rem;
-  background: white;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-.custom-login-container h2 {
-  text-align: center;
-}
-
