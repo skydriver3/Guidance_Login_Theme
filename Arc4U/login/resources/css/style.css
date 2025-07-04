@@ -1,3 +1,20 @@
+:root { 
+--sp-global--BackgroundColor--dark--100 : #001E33; 
+--sp-global--BackgroundColor--dark--200 : #003050; 
+--sp-global--primary-color--100: #f0ab00; 
+--sp-global--primary-color--200 : #000000 ; 
+
+}
+
 .login-pf body {
-    background: DimGrey none;
+  background : radial-gradient(circle at center, var(--pf-global--BackgroundColor--dark-200) 0%, var(--pf-global--BackgroundColor--dark-100) 70%); 
+}
+
+.card-pf { 
+  background : #fff;
+}
+
+#kc-header-wrapper::before { 
+  background-image : url("../img/A_logo.svg");
+  background-size : cover; 
 }
