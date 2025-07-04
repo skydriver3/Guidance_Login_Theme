@@ -1,8 +1,8 @@
 :root { 
---sp-global--BackgroundColor--dark--100 : #001E33; 
---sp-global--BackgroundColor--dark--200 : #003050; 
---sp-global--primary-color--100: #f0ab00; 
---sp-global--primary-color--200 : #000000 ; 
+--pf-global--BackgroundColor--dark--100 : #001E33; 
+--pf-global--BackgroundColor--dark--200 : #003050; 
+--pf-global--primary-color--100: #f0ab00; 
+--pf-global--primary-color--200 : #000000 ; 
 
 }
 
